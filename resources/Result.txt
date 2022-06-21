@@ -1,0 +1,39 @@
+1
+Parameters of the best solution : [1. 0. 0. 1. 1. 0. 1. 1. 0. 1. 0. 1. 0. 0. 1.]
+Fitness value of the best solution = -0.0
+Predicted output based on the best solution : 252.0
+
+#####################################################################################
+#####################################################################################
+2
+Parameters of the best solution : [0. 1. 1. 0. 1. 0. 1. 1. 0. 1. 0.]
+Item names of the best solution :
+obraz-pejzaz, obraz-portret, laptop, srebrne-sztucce, porcelana, skorzana-torebka,
+Fitness value of the best solution = 1630.0
+Predicted output based on the best solution : 1630.0
+
+#####################################################################################
+#####################################################################################
+3
+Average elapsed time of the algorithm :  0.003790140151977539
+Parameters of the best solution : [0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 1. 0. 1.]
+Fitness value of the best solution = -0.0
+Predicted output based on the best solution : 252.0
+Number of generations passed is 4
+#####################################################################################
+#####################################################################################
+
+4
+Results for 25 elements:
+Parameters of the best solution : [0. 1. 1. 1. 0. 0. 1. 1. 1. 0. 0. 0. 0. 0. 1. 1. 1. 1. 1. 0. 1. 0. 0. 0.
+ 1.]
+Fitness value of the best solution = -0.0
+Results for 35 elements:
+Parameters of the best solution : [1. 1. 0. 1. 0. 1. 1. 0. 1. 0. 1. 0. 1. 0. 0. 0. 0. 0. 1. 1. 1. 1. 1. 0.
+ 0. 0. 1. 0. 0. 1. 0. 1. 1. 0. 1.]
+Fitness value of the best solution = -1.0
+Results for 45 elements:
+Parameters of the best solution : [0. 1. 0. 1. 1. 1. 1. 0. 1. 0. 0. 1. 0. 0. 1. 0. 1. 1. 1. 1. 0. 0. 1. 0.
+ 0. 1. 0. 0. 0. 1. 0. 0. 1. 1. 0. 1. 0. 1. 1. 0. 1. 1. 1. 0. 0.]
+Fitness value of the best solution = -1.0
+AVG time : [0.006425547599792481, 0.05811188220977783, 0.05406379699707031]
